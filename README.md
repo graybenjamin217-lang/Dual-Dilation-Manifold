@@ -68,3 +68,10 @@ If you utilize this framework, operator definitions, or diagnostic code in your 
   year={2026},
   doi={10.5281/zenodo.23189507}
 }
+
+```
+
+## Companion Insight & Perspective
+
+For those interested in a more grounded perspective in to the Abstract Concepts of this work please visit my Substack Repository for Insight:
+https://doi.org/10.5281/zenodo.23871524
